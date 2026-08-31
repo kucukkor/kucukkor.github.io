@@ -1,0 +1,13 @@
+{
+  "_note": "Release gate. latest = the newest build actually live in the store (bump AFTER a release goes live). min_supported = the oldest build still allowed to run; raise it only to force an update.",
+  "ios": {
+    "latest": "0.0.0",
+    "min_supported": "0.0.0",
+    "store_url": "https://apps.apple.com/app/vahara"
+  },
+  "android": {
+    "latest": "0.0.0",
+    "min_supported": "0.0.0",
+    "store_url": "https://play.google.com/store/apps/details?id=com.kucukkor.vahara"
+  }
+}
