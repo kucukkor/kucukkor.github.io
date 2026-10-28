@@ -9,11 +9,5 @@
     "latest": "0.0.0",
     "min_supported": "0.0.0",
     "store_url": "https://play.google.com/store/apps/details?id=com.kucukkor.vahara"
-  },
-  "q1": 600,
-  "q2": 300,
-  "q3": 90,
-  "q4": 6,
-  "q5": 1,
-  "q6": 3
+  }
 }
